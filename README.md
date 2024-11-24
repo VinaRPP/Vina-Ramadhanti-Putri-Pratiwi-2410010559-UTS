@@ -9,4 +9,4 @@ JButton, dll
 
 Variasi
 • Menambahkan fitur untuk mengimpor dan mengekspor data ke
-dalam format file tertentu (misalnya .txt, .pdf, xls, atau .json)
+dalam format file .txt
